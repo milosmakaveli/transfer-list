@@ -1,0 +1,7 @@
+.item {
+    list-style-type: none;
+}
+
+.item-label {
+    display: block;
+}
